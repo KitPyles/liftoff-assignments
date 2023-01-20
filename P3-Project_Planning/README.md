@@ -7,13 +7,15 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+* ![Landing Page Wireframe](Landing%20Page%20Wireframe.png)
+* ![Provider Input Form Wireframe](Provider%20Input%20Form%20Wireframe.png)
+* ![Provider View Wireframe](Provider%20View%20Wireframe.png)
+* ![Individual Provider View Wireframe](Individual%20Provider%20View%20Wireframe.png)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Trello](https://trello.com/b/fjtRsSmY/liftoff)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[Health eHub Repo](https://github.com/Jan-23-Liftoff-KC/team-hyunsu-group-repo)
